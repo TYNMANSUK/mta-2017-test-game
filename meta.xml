@@ -1,0 +1,27 @@
+<meta>
+	<oop>true</oop>
+	
+	<script src="assert.lua" type="shared" cache="false" />
+	
+	<script src="dxElement/config.lua" type="client" cache="false" />
+	<script src="dxElement/dxButton.lua" type="client" cache="false" />
+	<script src="dxElement/dxEdit.lua" type="client" cache="false" />
+	<script src="dxElement/dxLine.lua" type="client" cache="false" />
+	<script src="dxElement/render.lua" type="client" cache="false" />	
+	
+	<script src="items_table.lua" type="client" cache="false" />
+
+	<script src="inventory/config.lua" type="client" cache="false" />
+	<script src="inventory/client.lua" type="client" cache="false" />
+	<script src="inventory/server.lua" type="client" cache="false" />
+	
+	<!-- data ~ shader -->
+	<file src="data/Shader/blur.fx"/>
+	<!-- data ~ icon - items -->
+	<file src="data/items/bandage.png"/>
+	
+	<!-- font  -->
+	<file src="dxElement/font/Roboto-Bold.ttf"/>
+	<file src="dxElement/font/Roboto-Regular.ttf"/>
+
+</meta>
